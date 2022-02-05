@@ -19,18 +19,6 @@ Vagrant プラグインのインストール
 vagrant plugin install vagrant-vbguest
 ```
 
-ゲスト OS の情報
-
-```sh
-lsb_release -a
-
-No LSB modules are available.
-Distributor ID: Ubuntu
-Description:    Ubuntu 20.04.3 LTS
-Release:        20.04
-Codename:       focal
-```
-
 ## 環境構築
 
 VM（Ubuntu）上で写経した。
