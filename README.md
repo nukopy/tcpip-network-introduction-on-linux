@@ -8,7 +8,7 @@
   - [github.com/momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book)
 - 著者ブログ
   - (2020/03) [「Linux で動かしながら学ぶ TCP/IP ネットワーク入門」という本を書きました](https://blog.amedama.jp/entry/linux-tcpip-book)
-    - 「特定の分野におけるプロフェッショナルとは、その分野でひととおりの失敗を経験した人のことをいう」 ← この言葉良き
+    - この言葉良き → 「特定の分野におけるプロフェッショナルとは、その分野でひととおりの失敗を経験した人のことをいう」
 
 ## 実行環境
 
